@@ -29,6 +29,7 @@ input {
     border-bottom: 1px solid teal;
     color: teal;
     border-radius: 3px;
+    text-align: center;
 }
 
 .caja {
